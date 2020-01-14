@@ -864,3 +864,8 @@ body:after {
     color: #888888; }
     .footer a:hover {
       color: #000; }
+
+/* FIXME Add with SCSS instead of hard-coding it here */ 
+.with-padding {
+  padding: 30px;
+}
